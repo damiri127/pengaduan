@@ -1,0 +1,13 @@
+Menu Admin
+		1. Dashboard
+		2. Lihat laporan (lihat/tanggapi)
+		3. Data
+			a. Data Petugas (CRUD)
+			b. Data Masyarakat (RD)
+			c. Data Laporan (R)
+			d. Data Tanggapan (RUD)
+		4. Generate laporan
+			a. Laporan data registrasi masyarakat
+			b. laporan semua pengaduan
+			c. laporan tanggapan pengaduan
+		5. Sign OUT
